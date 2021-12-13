@@ -1,11 +1,10 @@
-package com.obasaka.obatbot
+package com.obasaka.obabot
 
 import android.content.Context
 import android.graphics.Canvas
 import android.graphics.Paint
 import android.util.AttributeSet
 import android.view.View
-import com.obasaka.RippleView
 
 class CircleView (
     context: Context?,

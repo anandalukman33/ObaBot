@@ -1,11 +1,11 @@
-package com.obasaka.obatbot
+package com.obasaka.obabot
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class MainActivity : AppCompatActivity() {
+class AboutObaBot : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_about_oba_bot)
     }
 }

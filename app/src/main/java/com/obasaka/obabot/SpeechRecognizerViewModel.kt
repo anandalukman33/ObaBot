@@ -1,4 +1,4 @@
-package com.obasaka.obatbot
+package com.obasaka.obabot
 
 import android.Manifest
 import android.app.Application

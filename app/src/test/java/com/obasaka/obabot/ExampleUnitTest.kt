@@ -1,4 +1,4 @@
-package com.obasaka.obatbot
+package com.obasaka.obabot
 
 import org.junit.Test
 

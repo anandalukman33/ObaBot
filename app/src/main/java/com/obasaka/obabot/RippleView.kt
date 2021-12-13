@@ -1,6 +1,4 @@
-package com.obasaka
-import com.obasaka.obatbot.CircleView
-import com.obasaka.obatbot.R
+package com.obasaka.obabot
 
 import android.content.Context
 import android.util.AttributeSet
